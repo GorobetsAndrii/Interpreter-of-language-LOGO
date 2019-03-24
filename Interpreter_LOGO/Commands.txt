@@ -1,0 +1,11 @@
+FD
+BK 
+RT
+LT
+PU
+PD
+PE
+PPT
+SETPC
+PRINT_PEN
+SETSC kolor tla 
