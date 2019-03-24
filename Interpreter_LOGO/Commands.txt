@@ -8,4 +8,4 @@ PE
 PPT
 SETPC
 PRINT_PEN
-SETSC kolor tla 
+SETSC 
